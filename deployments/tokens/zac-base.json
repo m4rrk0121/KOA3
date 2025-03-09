@@ -1,0 +1,15 @@
+{
+  "tokenAddress": "0x1014F9731f9A0e02585D10C944455aaD63dE65f1",
+  "lpNftId": "2272248",
+  "name": "zac",
+  "symbol": "zac",
+  "totalSupply": "1000000000000000000000000000",
+  "lpSupply": "990000000000000000000000000",
+  "recipientWallet": "0xc5C216E6E60ccE2d189Bcce5f6ebFFDE1e8ce926",
+  "recipientAmount": "10000000000000000000000000",
+  "deployer": "0xe33Be189B01388D8224f4b1933e085868d7Cb6db",
+  "initialTick": -187800,
+  "targetMarketCap": 14000,
+  "ethPriceAtDeployment": 2024.22,
+  "timestamp": "2025-03-09T21:38:32.063Z"
+}
